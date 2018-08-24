@@ -36,24 +36,24 @@
         <p>制作日 2018/07/28</p>
       </div>
     </router-link>
-    <router-link to="/pingpong">
-      <div class="contents">
-        <div class="image">
-          <img src="../assets/images/hospital.jpg">
-        </div>
-        <h4>title</h4>
-        <p>text</p>
-      </div>
-    </router-link>
-    <router-link to="/pingpong">
-      <div class="contents">
-        <div class="image">
-          <img src="../assets/images/bentou.jpg">
-        </div>
-        <h4>title</h4>
-        <p>text</p>
-      </div>
-    </router-link>
+    <!--<router-link to="/pingpong">-->
+      <!--<div class="contents">-->
+        <!--<div class="image">-->
+          <!--<img src="../assets/images/hospital.jpg">-->
+        <!--</div>-->
+        <!--<h4>title</h4>-->
+        <!--<p>text</p>-->
+      <!--</div>-->
+    <!--</router-link>-->
+    <!--<router-link to="/pingpong">-->
+      <!--<div class="contents">-->
+        <!--<div class="image">-->
+          <!--<img src="../assets/images/bentou.jpg">-->
+        <!--</div>-->
+        <!--<h4>title</h4>-->
+        <!--<p>text</p>-->
+      <!--</div>-->
+    <!--</router-link>-->
   </div>
 </template>
 
